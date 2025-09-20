@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a05705fb2784b6b4ea25e174340937a8
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 256d1e493065f414f8137b55ca61eb15
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: e46bec601f5a98a40a2d79eb63f044e2
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 99b4e20d7bcd68349b9ec8e8fa5d0df3
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: 4f2623c30ebb0084b9a1bd64b7a7abdd
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: 31672e688736c2f4da930b5b125231b4
+  - enabled: 1
+    path: Assets/Scenes/Level 6.unity
+    guid: 9037acfcc0950da4bafcd3c235ae3067
+  - enabled: 1
+    path: Assets/Scenes/Level 7.unity
+    guid: e90b78ba27286394bbf67479aa30059e
+  - enabled: 1
+    path: Assets/Scenes/Level 8.unity
+    guid: 87a35b9942d8fd047bb5182a413fb357
+  - enabled: 1
+    path: Assets/Scenes/InGameCutsceneLast.unity
+    guid: 158aa6ef1069f6845b43acd853a48227
+  - enabled: 1
+    path: Assets/Scenes/SettingsMenu.unity
+    guid: 6db7de8a426e71d499f549466e588a76
+  - enabled: 1
+    path: Assets/Scenes/First CutScene.unity
+    guid: bab3d9f6a60c21e4db21b1f0d44a59b4
+  - enabled: 1
+    path: Assets/Scenes/Second CutScene.unity
+    guid: a5927ee31b2f1f2448946ae7742315c0
+  m_configObjects: {}
